@@ -1,2 +1,2 @@
 #!/bin/bas
-gcc -E $CFILE -o ch
+gcc -E $CFILE -o c
