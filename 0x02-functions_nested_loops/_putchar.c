@@ -3,7 +3,7 @@
 /**
  *  _putchar 
 */
-Int _putchar(int x)
+int _putchar(int x)
 {
-    putchar(x);
+	putchar(x);
 }

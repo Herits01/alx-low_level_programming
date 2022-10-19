@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *  main- data entry point
+ *  main - data entry point
  * return: always return (0) **/
 int main(void)
 {
