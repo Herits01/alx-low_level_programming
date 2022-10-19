@@ -1,17 +1,3 @@
-#include <stdio.h>
-#include "main.h"
-/**
- *  *  _putchar 
- *  */
-Int _putchar(int x)
-{
-	    putchar(x);
-}
-
-*main.h*
-int _putchar(int x);
-
-*0-putchar.c*
 #include "main.h"
 /**
  *  *  main
