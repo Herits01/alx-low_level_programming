@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *  *  main
- *  */
+ *  main- data entry point
+ * return: always return (0) **/
 int main(void)
 {
 	_putchar('_');
