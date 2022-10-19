@@ -1,8 +1,5 @@
 #ifndef main_h
 #define main_h
-/**
- *  *  *  _putchar
- *   *  */
 extern int _putchar(char c);
 int _putchar (int x)
 extern void print_alphabet(void);
@@ -17,8 +14,4 @@ extern void times_table(void);
 extern int add(int, int);
 extern void print_to_98(int n);
 extern void print_times_table(int n);
-#endiff
-{
-	    putchar(x);
-}
-
+#endif
