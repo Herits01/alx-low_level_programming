@@ -1,12 +1,20 @@
-#include <main.h>
+#include "main.h"
 
-	/** main: data entry point
-	*Description: prints _putchar
-	* Return: always 0 (success) **/
-int main (void)
-int _putchar (int char);
+/**
+ *  * main - Prints Holberton as a message.
+ *   *
+ *    * Return: Always 0 (Success)
+ *     */
+int main(void)
 {
-	int putchar (int char);
-	printf(_putchar,'\n');
-	return (0)
-}
+	int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
+	int count, sz;
+
+	sz = sizeof(str) / sizeof(int);
+	for (count = 0; count < sz; count++)
+	{
+			_putchar(str[count]);
+		}
+	_putchar('\n');
+	return (0);
+}}
