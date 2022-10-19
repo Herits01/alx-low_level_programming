@@ -4,6 +4,7 @@
  *  _putchar 
 */
 int _putchar(int x)
+	int _putchar();
 {
 	putchar(x);
 }
