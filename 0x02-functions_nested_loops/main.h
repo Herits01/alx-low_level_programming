@@ -1,7 +1,7 @@
 #ifndef main_h
 #define main_h
 extern int _putchar(char c);
-extern int putchar (int x);
+extern int _putchar (int x);
 extern void print_alphabet(void);
 extern void print_alphabet_x10(void);
 extern int _islower(int c);
