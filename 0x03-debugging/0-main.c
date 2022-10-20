@@ -11,6 +11,6 @@ int main(void)
 
 	i = 98;
 	positive_or_negative(i);
-	printf(%d, i<98, i++) 	
+	printf(%d, i=98, i++) 	
 	return (0);
 }
