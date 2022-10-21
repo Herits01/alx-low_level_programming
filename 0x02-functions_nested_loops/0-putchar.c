@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *  main - data entry point
- *  return: always return 0 (success) 
+ *  return: always return 0 (success)
  **/
 int main(void)
 	{
