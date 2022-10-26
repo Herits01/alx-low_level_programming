@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.c0"
+#include "main.c"
 int _putchar( char c);
 int _isupper(int c);
 int main.c (int c);
